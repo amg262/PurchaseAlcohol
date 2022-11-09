@@ -1,0 +1,15 @@
+C:\Users\Andy\source\repos\PurchaseAlcohol\PurchaseAlcohol\PurchaseAlcohol\bin\Debug\netstandard2.0\PurchaseAlcohol.deps.json
+C:\Users\Andy\source\repos\PurchaseAlcohol\PurchaseAlcohol\PurchaseAlcohol\bin\Debug\netstandard2.0\PurchaseAlcohol.dll
+C:\Users\Andy\source\repos\PurchaseAlcohol\PurchaseAlcohol\PurchaseAlcohol\bin\Debug\netstandard2.0\PurchaseAlcohol.pdb
+C:\Users\Andy\source\repos\PurchaseAlcohol\PurchaseAlcohol\PurchaseAlcohol\obj\Debug\netstandard2.0\PurchaseAlcohol.csproj.AssemblyReference.cache
+C:\Users\Andy\source\repos\PurchaseAlcohol\PurchaseAlcohol\PurchaseAlcohol\obj\Debug\netstandard2.0\PurchaseAlcohol.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Andy\source\repos\PurchaseAlcohol\PurchaseAlcohol\PurchaseAlcohol\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Andy\source\repos\PurchaseAlcohol\PurchaseAlcohol\PurchaseAlcohol\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\Andy\source\repos\PurchaseAlcohol\PurchaseAlcohol\PurchaseAlcohol\obj\Debug\netstandard2.0\PurchaseAlcohol.AssemblyInfoInputs.cache
+C:\Users\Andy\source\repos\PurchaseAlcohol\PurchaseAlcohol\PurchaseAlcohol\obj\Debug\netstandard2.0\PurchaseAlcohol.AssemblyInfo.cs
+C:\Users\Andy\source\repos\PurchaseAlcohol\PurchaseAlcohol\PurchaseAlcohol\obj\Debug\netstandard2.0\PurchaseAlcohol.csproj.CoreCompileInputs.cache
+C:\Users\Andy\source\repos\PurchaseAlcohol\PurchaseAlcohol\PurchaseAlcohol\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\Andy\source\repos\PurchaseAlcohol\PurchaseAlcohol\PurchaseAlcohol\obj\Debug\netstandard2.0\PurchaseAlcohol.dll
+C:\Users\Andy\source\repos\PurchaseAlcohol\PurchaseAlcohol\PurchaseAlcohol\obj\Debug\netstandard2.0\refint\PurchaseAlcohol.dll
+C:\Users\Andy\source\repos\PurchaseAlcohol\PurchaseAlcohol\PurchaseAlcohol\obj\Debug\netstandard2.0\PurchaseAlcohol.pdb
+C:\Users\Andy\source\repos\PurchaseAlcohol\PurchaseAlcohol\PurchaseAlcohol\obj\Debug\netstandard2.0\ref\PurchaseAlcohol.dll
